@@ -26,6 +26,7 @@ body:
         - grupo-h
         - grupo-i
         - grupo-j
+        - grupo-l
         - grupo-p
     validations:
       required: true
